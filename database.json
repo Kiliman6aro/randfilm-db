@@ -1,0 +1,20 @@
+{
+    "services":{
+        "rezka.ag": {
+            "playerSelector": "#player",
+            "fabColor": "white",
+            "content": {
+                "genreSelector": "#main > div.b-container.b-wrapper > div > div.b-content__columns.pdt.clearfix > div.b-content__main > div.b-post__infotable.clearfix > div.b-post__infotable_right > div > table > tbody > tr:nth-child(6) > td:nth-child(2) > a:nth-child(1) > span",
+                "gengreSelectorType": "array",
+                "genergeSelectorSeparator": null,
+                "nameSelector": "#main > div.b-container.b-wrapper > div > div.b-content__columns.pdt.clearfix > div.b-content__main > div.b-post__title > h1",
+                "actorsSelector": "#main > div.b-container.b-wrapper > div > div.b-content__columns.pdt.clearfix > div.b-content__main > div.b-post__infotable.clearfix > div.b-post__infotable_right > div > table > tbody > tr:nth-child(11) > td > div > span >  span > a",
+                "actorsType": "array",
+                "actorsSelectorSeparator": null,
+                "descriptionSelector": "#main > div.b-container.b-wrapper > div > div.b-content__columns.pdt.clearfix > div.b-content__main > div.b-post__description > div.b-post__description_text",
+                "posterSelector": "#main > div.b-container.b-wrapper > div > div.b-content__columns.pdt.clearfix > div.b-content__main > div.b-post__infotable.clearfix > div.b-post__infotable_left > div > a",
+                "posterSelectorType": "a"
+            }
+        }
+    }
+}
