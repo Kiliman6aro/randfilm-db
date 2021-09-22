@@ -1,6 +1,6 @@
 {
     "services":{
-        "rezka.ag": {
+        "rezka@ag": {
             "playerSelector": "#player",
             "fabColor": "white",
             "content": {
